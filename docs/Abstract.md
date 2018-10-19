@@ -1,2 +1,0 @@
-Abstract
-With the scope of modern technology, I attempt to figure out how to predict the price for helping make the purchase decision, taking the advantage of the developing machine learning algorithms and models to train data by using recurrent neural networks and deep learning. In the end, the paper expects to provide methods for further improving our purchasing scale and saving our purchasing expenses.
