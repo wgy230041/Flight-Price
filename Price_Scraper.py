@@ -22,11 +22,7 @@ from datetime import date, time, datetime
 import pickle
 from dateutil.rrule import rrule, DAILY
 
-urls = ["https://www.imdb.com/title/tt0109830/?ref_=fn_al_tt_1", 
-         "https://www.imdb.com/title/tt0076759/?ref_=fn_tt_tt_1",
-         "https://www.imdb.com/title/tt0368226/?ref_=nv_sr_2",
-         "https://www.imdb.com/title/tt0120338/?ref_=nv_sr_1",
-         "https://www.imdb.com/title/tt1375666/?ref_=nv_sr_1"  ]
+urls = [""]
 titles =[]
 rating =[]
 for url in urls:
