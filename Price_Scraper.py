@@ -30,7 +30,6 @@ for url in urls:
     
     time.sleep(1)
 
-BASE_URL="http://flights.makemytrip.com/makemytrip/"
 
 class MakeMyTrip(object):
     
